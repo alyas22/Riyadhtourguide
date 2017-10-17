@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">"Riyadh Tour Guide "</string>
+
+    <string name="hotel_fragment"> Hotel </string>
+    <string name="mall_fragment"> Mall </string>
+    <string name="restaurant_fragment"> Restaurant </string>
+    <string name="museum_fragment"> Museum </string>
+
+    <string name="museum1"> AlMasmak Historical Museum </string>
+    <string name="museum2"> AlMurabaa` Historical Palace </string>
+    <string name="museum3"> King Fahad National Library Museum </string>
+    <string name="museum4"> Science Oasis </string>
+    <string name="museum5"> Currency Museum </string>
+
+    <string name="mall1"> Al Nakheel Mall </string>
+    <string name="mall2"> Panorama Mall </string>
+    <string name="mall3"> Centria </string>
+    <string name="mall4"> Kingdom Centre </string>
+    <string name="mall5"> Al Faisaliyah Mall </string>
+    <string name="mall6"> Granada Center </string>
+    <string name="mall7"> Riyadh Gallery </string>
+    <string name="mall8"> Hayat Mall </string>
+
+    <string name="restaurant1"> Lusin </string>
+    <string name="restaurant2"> Cafe Bateel </string>
+    <string name="restaurant3"> Nozomi </string>
+    <string name="restaurant4"> Al Orjouan </string>
+    <string name="restaurant5"> Al-Najdiyah Village </string>
+
+    <string name="hotel1"> Novotel Suites Riyadh Dyar </string>
+    <string name="hotel2"> Hotel Al Khozama </string>
+    <string name="hotel3"> Four Seasons Hotel Riyadh at Kingdom Centre </string>
+    <string name="hotel4"> Marriott Executive Apartments </string>
+    <string name="hotel5"> Novotel Al Anoud </string>
+    <string name="hotel6"> InterContinental  </string>
+    <string name="hotel7"> Narcissus Hotel  </string>
+    <string name="hotel8"> Movenpick Hotel  </string>
+</resources>

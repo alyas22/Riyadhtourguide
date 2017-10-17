@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="des_museum1"> AlMasmak palace locate in the heart of Riyadh city was transformed into a museum that contains many halls displaying paintings that include pictures and maps illustrating the epic battles to recapture Riyadh and tells the story of uniting the Kingdom under the leadership of King Abdul Aziz may he rest in peace. It also contains a number of weapons used during those times such as shotguns and swords. The museums also displays pictures and illustrations about modern development in all sectors in the Kingdom.\n\n
+    <b>Address:</b> Riyadh, The Deputy Ministry of Antiquities and Museums. Tel. 4110091. Fax: 4041391.
+    </string>
+    <string name="des_museum2"> This palace was built by King AbdulAziz outside the walls of old Riyadh. His majesty used it as his private residence and to conduct formal duties during the evenings.\n\n
+    <b>Address:</b> King AbdulAziz Darah, King AbdulAziz Historical Center P.O. box: 2945, Riyadh. Tel. 4011999. Fax: 4013597.
+    </string>
+    <string name="des_museum3"> A unique collection of manuscripts, documents, money notes and rare books in addition to clay pieces and tomb stones and engravings. All these display items illustrate the development of Arabic calligraphy as well as the tools and substances used for this art form.\n\n
+    <b>Address:</b> King Fahad National Library P.O. Box: 7275, Riyadh, 1472. Tel. 4646212.
+    </string>
+    <string name="des_museum4"> Some machines and scientific ideas in physics, biology, astronomy, and other scientific fields. A live experiment for static electricity. Astronomical dome show.\n\n
+     <b>Address:</b> Arriyadh Development Authority- Projects and Planning Center Tel. &amp; fax: 4828276
+    </string>
+    <string name="des_museum5"> A collection of rare currencies dating back to pre-Islamic eras and a collection of some Islamic coins that were used until the 14th century Hijra. The Museums also displays some samples of GCC and currency and other countries around the world.\n\n
+     <b>Address:</b> Saudi Arabian Monetary Agency (SAMA)- Main center P.O. Box: 6992, Riyadh, 11169. Tel. &amp; fax: 4662100.
+    </string>
+
+    <string name="des_mall1"> <b>Address:</b> Othman Bin Affan Rd (Imam Saud Ibn Abdul Aziz Rd.), Riyadh. </string>
+    <string name="des_mall2"> <b>Address:</b> Takhassusi St. (Tahlia St.), Riyadh. </string>
+    <string name="des_mall3"> <b>Address:</b> Tahlia St. (Olaya St.), Riyadh, alOlaya. </string>
+    <string name="des_mall4"> <b>Address:</b> Olaya St (Orouba St), Riyadh, AlOlaya. </string>
+    <string name="des_mall5"> <b>Address:</b> Olaya St. (Prince Sultan Ibn Abdulaziz St.), Riyadh, AlOlaya. </string>
+    <string name="des_mall6"> <b>Address:</b> Eastern Ring Rd. (at Al Imam Saud Ibn Abdul Aziz Branch Rd), Riyadh,Ash-Shohda. </string>
+    <string name="des_mall7"> <b>Address:</b> King Fahad Rd (Imam Saud St), Riyadh, Al-malik Fahad. </string>
+    <string name="des_mall8"> <b>Address:</b> King Abdulaziz Rd. (Hesham Bin Abdul Malek St.), Riyadh, Al-malik Fahad. </string>
+
+    <string name="des_restaurant1"> Lebanese, Mediterranean, Middle Eastern.\n\n
+        <b>Address:</b> Olaya St | 2nd floor intersection with Tahlya St, Riyadh, Saudi Arabia.
+    </string>
+
+    <string name="des_restaurant2"> Cafe, Middle Eastern, Vegetarian Friendly.\n\n
+       <b>Address:</b> Tahlia Street | Opposite Localizer Mall , Beside Al- Reif Al-Lebnany, Riyadh 197, Saudi Arabia.
+    </string>
+    <string name="des_restaurant3"> Japanese, Sushi, Asian. \n\n
+     <b>Address:</b> Dabbab Street, Riyadh 12223, Saudi Arabia.
+     </string>
+    <string name="des_restaurant4"> Mediterranean, International, Middle Eastern. \n\n
+<b>Address:</b> The Ritz-Carlton, Riyadh | Mekkah Road, Al Hada Area, Riyadh 11493, Saudi Arabia.
+</string>
+    <string name="des_restaurant5"> Middle Eastern, Vegetarian Friendly, Halal. \n\n
+<b>Address:</b> AboBakr AlSiddeeq Street | Al Nuzhah Area, Riyadh 11464, Saudi Arabia.
+ </string>
+
+    <string name="des_hotel1"> <b>Address:</b> Olaya Main Street, Riyadh, Saudi Arabia. </string>
+    <string name="des_hotel2"> <b>Address:</b> Al Olaya St, Riyadh 11491, Saudi Arabia.
+ </string>
+    <string name="des_hotel3"> <b>Address:</b> Olaya, Kingdom Centre, Riyadh 11321, Saudi Arabia.</string>
+    <string name="des_hotel4"> <b>Address:</b> King Saud Road, Al Wazarat District | Al Wazarat District, Riyadh 11464, Saudi Arabia.</string>
+    <string name="des_hotel5"> 9033 King Fahd Road | Unit No 1, Riyadh 122142370, Saudi Arabia.
+ </string>
+    <string name="des_hotel6"> <b>Address:</b> King Saud Road | Po Box 3636, Riyadh 11481, Saudi Arabia.</string>
+    <string name="des_hotel7"> <b>Address:</b> Olaya Street (corner Tahlia Street), Riyadh 11351, Saudi Arabia. </string>
+    <string name="des_hotel8"> <b>Address:</b> King Fahad Road | Opposite Ministry of Interior, Riyadh 13003, Saudi Arabia.</string>
+</resources>
